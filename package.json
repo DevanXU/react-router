@@ -1,11 +1,19 @@
 {
   "name": "a-simple-react-router-v4-tutorial",
-  "description": "https://medium.com/@pshrmn/a-simple-react-router-v4-tutorial-7f23ff27adf",
+  "description":
+    "https://medium.com/@pshrmn/a-simple-react-router-v4-tutorial-7f23ff27adf",
   "version": "0.0.0",
   "dependencies": {
-    "react-router-dom": "4.1.1",
+    "antd-mobile": "2.1.10",
+    "natty-storage": "2.2.0",
+    "react": "15.5.3",
     "react-dom": "15.5.3",
-    "react": "15.5.3"
+    "react-keeper": "2.1.7",
+    "react-router": "4.2.0",
+    "react-router-dom": "4.1.1",
+    "refast": "2.1.1",
+    "svg-sprite-loader": "3.8.0",
+    "unity-api": "2.1.0"
   },
   "devDependencies": {
     "react-scripts": "1.0.0"
